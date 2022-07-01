@@ -1,6 +1,14 @@
 body{
     background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
 }
+.developedby{
+    color: rgb(11, 130, 9)
+}
+.sourcecode{
+    position: absolute;
+    left: 86%;
+    color: rgb(11, 130, 9);
+}
 /**gtav**/
 
 .gtavcover{
