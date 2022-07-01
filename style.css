@@ -1,0 +1,109 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
+}
+
+/*Developer Utilities*/
+.developedby{
+    position: absolute;
+    top: 130%;
+    color: rgb(11, 130, 9)
+}
+.sourcecode{
+    color: rgb(11, 130, 9);
+    position: absolute;
+    left: 93.5%;
+    top: 132%;
+}
+/**gtav**/
+
+.gtavcover{
+    position: absolute;
+    top: 10.5%;
+    border-radius: 4%;
+}
+.gtavdownloadbutton{
+    position: absolute;
+    top: 56.8%;
+    border-radius: 5%;
+    background-color: rgb(65,155,63);
+    margin-left: 1.5%;
+}
+/**gow**/
+
+.gowcover{
+    position: absolute;
+    border-radius: 4%;
+    margin-left: 44%;
+    top: 10.5%;
+}
+.gowdownloadbutton{
+    position: absolute;
+    border-radius: 5%;
+    background-color: rgb(65,155,63);
+    margin-left: 46%;
+    top: 56.8%;
+}
+/**reviii**/
+.reviiidownloadbutton{
+    position: absolute;
+    border-radius: 5%;
+    top: 121.3%;
+    margin-left: 1.5%;
+    background-color: rgb(65,155,63);
+}
+.reviiicover{
+    position: absolute;
+    border-radius: 4%;
+    margin-top: auto;
+    top: 75%;
+}
+/**MKXI**/
+.mkxicover{
+    position: absolute;
+    border-radius: 4%;
+    margin-left: 44%;
+    top: 75%;
+}
+.mkxidownloadbutton{
+    position: absolute;
+    border-radius: 5%;
+    background-color: rgb(65,155,63);
+    margin-left: 46%;
+    top: 121.3%;
+}
+/*dmet*/
+.dmetcover{
+    position: absolute;
+    border-radius: 4%;
+    margin-left: 84%;
+    top: 10.5%;
+}
+.dmetdb{
+    position: absolute;
+    border-radius: 5%;
+    background-color: rgb(65,155,63);
+    margin-left: 86%;
+    top: 56.8%;
+}
+/*fnafsb*/
+.fnafsbcover{
+    position: absolute;
+    border-radius: 4%;
+    margin-left: 84%;
+    top: 75%;
+}
+.fnafsbdb{
+    position: absolute;
+    border-radius: 5%;
+    background-color: rgb(65,155,63);
+    margin-left: 86%;
+    top: 121.3%;
+}
+/**buttonsgeral**/
+
+.downloadcover{
+    border-radius: 5%;
+}
+h1{
+    color: rgb(112, 213, 111)
+}
